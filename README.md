@@ -56,17 +56,6 @@
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Spotify Playing 🎧
-
-  <a href="https://open.spotify.com/user/11153360645">
-    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify"  style=" height: 250px; top: -50px" />
-  </a>
- 
-<div>
-  <samp>
-    <h2 align="center"> Github Stats </h2>
-      <br/>
-    
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/SouravSarkar-tech/">
