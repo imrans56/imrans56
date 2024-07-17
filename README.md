@@ -56,26 +56,7 @@
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-  <summary><h3>Languages</h3></summary>
-            <p align="center">
-
-      </p>
-        <p align="center">
-          <a href="https://github.com/SouravSarkar-tech/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SouravSarkar-tech&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SouravSarkar-tech&theme=gruvbox&layout=compact&hide_border=true"
-          alt="SouravSarkar-tech :: Top Langs by commit" />
-          </a>
-        </p>
-
-  <summary><h3>Stasistics</h3></summary>
-        <p align="center">
-          <a href="https://github.com/SouravSarkar-tech/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SouravSarkar-tech&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SouravSarkar-tech&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
+  
      <br>
      </samp>
   </div>    
