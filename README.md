@@ -58,9 +58,7 @@
 
   <summary><h3>Languages</h3></summary>
             <p align="center">
-        <a href="https://github.com/SouravSarkar-tech/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravSarkar-tech&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="SouravSarkar-tech :: overall Top Langs " /></a>
+
       </p>
         <p align="center">
           <a href="https://github.com/SouravSarkar-tech/">
