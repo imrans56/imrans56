@@ -6,7 +6,7 @@
 <hr>
 
 
-<h4 align="center">DevOps Consultant & Tech Enthusiast | Automating pipelines, Configuring the Infra and always chasing the next big thing!</h4>
+<h4 align="center">Cloud Consultant & DevOps and Tech Enthusiast | Automating pipelines, Configuring the Infra and always chasing the next big thing!</h4>
 <img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 </div>
 
@@ -17,13 +17,13 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> A Bit More About Me! 
-*Digital Craftsman (Consultant / Programmer/ Cloud Enthusiast)*
+*Digital Craftsman (AWS Cloud / Programmer/ Cloud Enthusiast)*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Proficient in Docker, Kubernetes, Terraform, Ansible, and diverse CI/CD tools to deliver seamless, automated workflows. Extensive experience across Azure and AWS continuously exploring and pioneering solutions in the dynamic cloud ecosystem. Driven by a passion for collaboration and innovation, I seek to unlock the boundless potential of cloud technologies for your success. </p>
+<p align="left">Proficient in AWS Services, Docker, Kubernetes, Terraform, Ansible, and diverse CI/CD tools to deliver seamless, automated workflows. Extensive experience across Azure and AWS continuously exploring and pioneering solutions in the dynamic cloud ecosystem. Driven by a passion for collaboration and innovation, I seek to unlock the boundless potential of cloud technologies for your success. </p>
 
-- ✨ DevOps Ninja: Master of automation with Docker, Kubernetes, Terraform, Ansible, and CI/CD tools (Azure Pipelines, AWS CodePipeline, Jenkins, GitHub Actions). :)
+- ✨ DevOps Ninja: Master of automation with Docker, Kubernetes, Terraform, Ansible, and CI/CD tools (Azure Pipelines, AWS CodePipeline, GitHub Actions). :)
 - 🌱 Cloud Connoisseur: Fluent in Azure, AWS, and GCP, always pushing boundaries in the ever-evolving cloud landscape.
 - 💻 Full-Stack Alchemist: Crafts dynamic UIs with React and Angular, and builds robust back-end solutions with .NET Core.
 - 🏙 Adventure Seeker: Always up for exploring new horizons and challenging myself, both in code and in life.
