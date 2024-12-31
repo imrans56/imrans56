@@ -24,7 +24,7 @@
 <p align="left">Proficient in Azure, AWS Services, Docker, Kubernetes, Terraform, Ansible, and diverse CI/CD tools to deliver seamless, automated workflows. Extensive experience across Azure and AWS continuously exploring and pioneering solutions in the dynamic cloud ecosystem. Driven by a passion for collaboration and innovation, I seek to unlock the boundless potential of cloud technologies for your success. </p>
 
 - ✨ DevOps Ninja: Master of automation with Docker, Kubernetes, Terraform, Ansible, and CI/CD tools (Azure Pipelines, AWS CodePipeline, GitHub Actions). :)
-- 🌱 Cloud Connoisseur: Fluent in Azure, AWS, and GCP, always pushing boundaries in the ever-evolving cloud landscape.
+- 🌱 Cloud Connoisseur: Fluent in Azure and AWS always pushing boundaries in the ever-evolving cloud landscape.
 - 💻 Full-Stack Alchemist: Crafts dynamic UIs with React and Angular, and builds robust back-end solutions with .NET Core.
 - 🏙 Adventure Seeker: Always up for exploring new horizons and challenging myself, both in code and in life.
 - 💁‍♂️ Passionate Collaborator: Eager to partner with others, innovate, and grow together.
@@ -74,7 +74,6 @@
 Here are some 🦜 Parrots:
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
