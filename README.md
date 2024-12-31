@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+There👋+,+Imran+Here+%F0%9F%91%8B;DevOps+Consultant;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+There👋+,+Imran+Here+%F0%9F%91%8B;Cloud and DevOps+Consultant;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
 <hr>
 
 
@@ -21,7 +21,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Proficient in AWS Services, Docker, Kubernetes, Terraform, Ansible, and diverse CI/CD tools to deliver seamless, automated workflows. Extensive experience across Azure and AWS continuously exploring and pioneering solutions in the dynamic cloud ecosystem. Driven by a passion for collaboration and innovation, I seek to unlock the boundless potential of cloud technologies for your success. </p>
+<p align="left">Proficient in Azure, AWS Services, Docker, Kubernetes, Terraform, Ansible, and diverse CI/CD tools to deliver seamless, automated workflows. Extensive experience across Azure and AWS continuously exploring and pioneering solutions in the dynamic cloud ecosystem. Driven by a passion for collaboration and innovation, I seek to unlock the boundless potential of cloud technologies for your success. </p>
 
 - ✨ DevOps Ninja: Master of automation with Docker, Kubernetes, Terraform, Ansible, and CI/CD tools (Azure Pipelines, AWS CodePipeline, GitHub Actions). :)
 - 🌱 Cloud Connoisseur: Fluent in Azure, AWS, and GCP, always pushing boundaries in the ever-evolving cloud landscape.
