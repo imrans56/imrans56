@@ -1,8 +1,8 @@
 # 🌈 **🔥 Imran — Cloud & DevOps Consultant | Tech Explorer | Problem Solver**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=header&text=Welcome+To+My+Cloud+Universe!&fontSize=40&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0A6EEB&section=header&text=Azure+Cloud+Architect+%7C+DevOps+Engineer&fontColor=ffffff&fontSize=35&fontAlignY=32"/> <div align="center">
 
-<div align="center">
+<img height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> </div>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30\&color=00FFAB\&center=true\&vCenter=true\&width=800\&lines=Hello+There+👋,+I'm+Imran+%F0%9F%91%8B;Cloud+Engineer+%7C+DevOps+Consultant;Infrastructure+Automation+Expert;Always+Learning+New+Things!)
 
